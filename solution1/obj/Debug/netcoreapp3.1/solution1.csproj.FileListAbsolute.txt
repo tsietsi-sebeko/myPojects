@@ -1,0 +1,13 @@
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/bin/Debug/netcoreapp3.1/solution1.deps.json
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/bin/Debug/netcoreapp3.1/solution1.runtimeconfig.json
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/bin/Debug/netcoreapp3.1/solution1.runtimeconfig.dev.json
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/bin/Debug/netcoreapp3.1/solution1.dll
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/bin/Debug/netcoreapp3.1/solution1.pdb
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/obj/Debug/netcoreapp3.1/solution1.csproj.AssemblyReference.cache
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/obj/Debug/netcoreapp3.1/solution1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/obj/Debug/netcoreapp3.1/solution1.AssemblyInfoInputs.cache
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/obj/Debug/netcoreapp3.1/solution1.AssemblyInfo.cs
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/obj/Debug/netcoreapp3.1/solution1.csproj.CoreCompileInputs.cache
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/obj/Debug/netcoreapp3.1/solution1.dll
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/obj/Debug/netcoreapp3.1/solution1.pdb
+/Users/tsietsielliotsebeko/Projects/solution1/solution1/obj/Debug/netcoreapp3.1/solution1.genruntimeconfig.cache
